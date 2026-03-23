@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/barnabaspakay/agile-project-mngmt/issues"
   },
-  "homepage": "https://github.com/barnabaspakay/agile-project-mngmt#readme"
+  "homepage": "https://github.com/barnabaspakay/agile-project-mngmt#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
